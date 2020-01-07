@@ -2,8 +2,6 @@
 
 Copy the PackageTemplate1 to the Directory
 
-In the Project..
-add new File ..Select Package Template
 
 
 For SQL Server 2005
@@ -22,3 +20,8 @@ For SQL Server 2012
 OR
 <<Installation drive>>:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\ProjectItems\DataTransformationProject\DataTransformationItems
 
+Once Copied..
+
+In the Project..
+add new File ..Select Package Template
+then copy the project param code or replace the project params
